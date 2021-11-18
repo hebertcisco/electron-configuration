@@ -1,0 +1,26 @@
+{
+  "n1": {
+    "sublayers-available": ["s"],
+    "orbitals-available": [1],
+    "possible-number-of-electrons-inside-of-the-underlayer": [2],
+    "possible-number-of-electrons-to-the-nth-layer": 2
+  },
+  "n2": {
+    "sublayers-available": ["s", "p"],
+    "orbitals-available": [1, 3],
+    "possible-number-of-electrons-inside-of-the-underlayer": [2, 6],
+    "possible-number-of-electrons-to-the-nth-layer": 8
+  },
+  "n3": {
+    "sublayers-available": ["s", "p", "d"],
+    "orbitals-available": [1, 3, 5],
+    "possible-number-of-electrons-inside-of-the-underlayer": [2, 6, 10],
+    "possible-number-of-electrons-to-the-nth-layer": 18
+  },
+  "n4": {
+    "sublayers-available": ["s", "p", "d", "f"],
+    "orbitals-available": [1, 3, 5, 7],
+    "possible-number-of-electrons-inside-of-the-underlayer": [2, 6, 10, 14],
+    "possible-number-of-electrons-to-the-nth-layer": 32
+  }
+}

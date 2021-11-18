@@ -1,0 +1,148 @@
+{
+  "groups": [
+    {
+      "symbols": ["H", "Li", "Na", "K", "Rb", "Cs", "Fr", "Sa"],
+      "names": ["Hydrogen", "Lithium", "Sodium", "Potassium", "Rubidium", "Cesium", "Francium", "Sodium"],
+      "numbers": [1, 3, 11, 19, 37, 55, 87, 87],
+      "category": "alkali metals",
+      "period": 1,
+      "group": 1
+    },
+    {
+      "symbols": ["Be", "Mg", "Ca", "Sr", "Ba", "Ra"],
+      "names": ["Beryllium", "Magnesium", "Calcium", "Scandium", "Barium", "Radium"],
+      "numbers": [4, 12, 20, 38, 56, 88],
+      "category": "alkaline earth metals",
+      "period": 2,
+      "group": 2
+    },
+    {
+      "symbols": ["Sc", "Y"],
+      "names": ["Scandium", "Yttrium"],
+      "numbers": [21, 39],
+      "category": "transition elements",
+      "period": 3,
+      "group": 3
+    },
+    {
+      "symbols": ["Ti", "Zr", "Hf", "Rf"],
+      "names": ["Titanium", "Zirconium", "Hafnium", "Rutherfordium"],
+      "numbers": [22, 40, 72, 104],
+      "category": "transition elements",
+      "period": 4,
+      "group": 4
+    },
+    {
+      "symbols": ["V", "Nb", "Ta", "Db"],
+      "names": ["Vanadium", "Niobium", "Tantalum", "Dubnium"],
+      "numbers": [23, 41, 73, 105],
+      "category": "transition elements",
+      "period": 5,
+      "group": 5
+    },
+    {
+      "symbols": ["Cr", "Mo", "W", "Sg"],
+      "names": ["Chromium", "Molybdenum", "Tungsten", "Seaborgium"],
+      "numbers": [24, 42, 74, 106],
+      "category": "transition elements",
+      "period": 6,
+      "group": 6
+    },
+    {
+      "symbols": ["Mn", "Tc", "Re", "Bh"],
+      "names": ["Manganese", "Technetium", "Rhenium", "Bohrium"],
+      "numbers": [25, 43, 75, 107],
+      "category": "transition elements",
+      "period": 7,
+      "group": 7
+    },
+    {
+      "symbols": ["Fe", "Ru", "Os", "Hs"],
+      "names": ["Iron", "Ruthenium", "Osmium", "Hassium"],
+      "numbers": [26, 44, 76, 108],
+      "category": "transition elements",
+      "period": 8,
+      "group": 8
+    },
+    {
+      "symbols": ["Co", "Rh", "Ir", "Mt"],
+      "names": ["Cobalt", "Rhodium", "Iridium", "Meitnerium"],
+      "numbers": [27, 45, 77, 109],
+      "category": "transition elements",
+      "period": 9,
+      "group": 9
+    },
+    {
+      "symbols": ["Ni", "Pd", "Pt", "Ds"],
+      "names": ["Nickel", "Palladium", "Platinum", "Darmstadtium"],
+      "numbers": [28, 46, 78, 110],
+      "category": "transition elements",
+      "period": 10,
+      "group": 10
+    },
+    {
+      "symbols": ["Cu", "Ag", "Au", "Rg"],
+      "names": ["Copper", "Silver", "Gold", "Roentgenium"],
+      "numbers": [29, 47, 79, 111],
+      "category": "transition elements",
+      "period": 11,
+      "group": 11
+    },
+    {
+      "symbols": ["Zn", "Cd", "Hg", "Cn"],
+      "names": ["Zinc", "Cadmium", "Mercury", "Copernicium"],
+      "numbers": [30, 48, 80, 112],
+      "category": "transition elements",
+      "period": 12,
+      "group": 12
+    },
+    {
+      "symbols": ["B", "Al", "Ga", "In", "Tl", "Nh"],
+      "names": ["Boron", "Aluminum", "Gallium", "Indium", "Thallium", "Nihonium"],
+      "numbers": [5, 13, 31, 49, 81, 113],
+      "category": "metalloids",
+      "period": 13,
+      "group": 13
+    },
+    {
+      "symbols": ["C", "Si", "Ge", "Sn", "Pb", "Fl"],
+      "names": ["Carbon", "Silicon", "Germanium", "Tin", "Lead", "Flerovium"],
+      "numbers": [6, 14, 32, 50, 82, 114],
+      "category": "metalloids",
+      "period": 14,
+      "group": 14
+    },
+    {
+      "symbols": ["N", "P", "As", "Sb", "Bi", "Mc"],
+      "names": ["Nitrogen", "Phosphorus", "Arsenic", "Antimony", "Bismuth", "Moscovium"],
+      "numbers": [7, 15, 33, 51, 83, 115],
+      "category": "metalloids",
+      "period": 15,
+      "group": 15
+    },
+    {
+      "symbols": ["O", "S", "Se", "Te", "Po", "Lv"],
+      "names": ["Oxygen", "Sulfur", "Selenium", "Tellurium", "Polonium", "Livermorium"],
+      "numbers": [8, 16, 34, 52, 84, 116],
+      "category": "metalloids",
+      "period": 16,
+      "group": 16
+    },
+    {
+      "symbols": ["F", "Cl", "Br", "I", "At", "Ts"],
+      "names": ["Fluorine", "Chlorine", "Bromine", "Iodine", "Astatine", "Tennessine"],
+      "numbers": [9, 17, 35, 53, 85, 117],
+      "category": "halogens",
+      "period": 17,
+      "group": 17
+    },
+    {
+      "symbols": ["He", "Ne", "Ar", "Kr", "Xe", "Rn", "Og"],
+      "names": ["Helium", "Neon", "Argon", "Krypton", "Xenon", "Radon", "Oganesson"],
+      "numbers": [2, 10, 18, 36, 54, 86, 118],
+      "category": "noble gases",
+      "period": 18,
+      "group": 18
+    }
+  ]
+}
